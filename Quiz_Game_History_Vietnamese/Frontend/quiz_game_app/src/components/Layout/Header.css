@@ -1,0 +1,44 @@
+.main-header {
+  background-color: #35e93e;
+  color: #080505;
+  padding: 20px;
+  text-align: center;
+}
+.admin-header {
+  background-color: #3498db;
+  color: #080505;
+  padding: 20px;
+  text-align: center;
+}
+
+.main-header h1,
+.admin-header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+}
+.main-footer {
+  background-color: #2c3e50;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
